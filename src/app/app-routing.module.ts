@@ -11,6 +11,7 @@ const routerConfig:Routes=[
     {path:"categories",component:CatComponent},
     {path:"**",component:HomeComponent},
 
+    
 ]
 @NgModule({
     declarations:[
